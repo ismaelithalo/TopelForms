@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <script src="public/js/loadHead.js" defer></script>
+  </head>
+  <body>
+    <header>
+      <nav class="navbar navbar-light bg-warning justify-content-center py-4">
+        <p class="h1 main-title text-uppercase">Database de Bias do Xet</p>
+      </nav>
+    </header>
+    <section>
+      <div class="container my-5">
+        <form id="dataForm">
+          <p class="text-center h4 mb-5">
+            Estamos fazendo um levantamento de bias dos grupos de k-pop para
+            entender melhor o perfil de cada um e extrair alguns dados bacanas
+            da comunidade.
+          </p>
+          <div class="form-group my-3">
+            <nav class="navbar navbar-dark bg-dark px-3 mb-2">
+              <a class="navbar-brand">TripleS</a>
+            </nav>
+            <div class="my-5">
+              <input type="hidden" name="labels[]" value="TripleS" />
+              <div class="form-check-inline my-3" style="position: relative">
+                <label class="form-check-label" for="TripleS-0">
+                  <input
+                    class="form-check-input"
+                    type="radio"
+                    id="TripleS-0"
+                    name="TripleS"
+                    value="Kotone"
+                  />
+                  <img
+                    src="https://i.imgur.com/AuvFXf9.png"
+                    class="rounded radio-image"
+                  />
+                  <div class="radio-image-label">Kotone</div>
+                </label>
+              </div>
+            </div>
+          </div>
+          <div class="my-5">
+            <label for="no-label-0" class="form-label"
+              ><p class="text-center h5">
+                Insira aqui seu nickname do discord
+              </p></label
+            ><input
+              type="text"
+              class="form-control"
+              id="no-label-0"
+              name="nickname"
+              required
+            />
+          </div>
+          <div class="mt-1 text-center">
+            <button type="submit" class="btn btn-dark text-justify">
+              Enviar
+            </button>
+          </div>
+        </form>
+      </div>
+    </section>
+    <footer class="footer mt-auto pt-3">
+      <nav
+        class="navbar navbar-light bg-warning mt-5 justify-content-center text-muted"
+      >
+        <p class="h6">Desenvolvido por ismaelithalo</p>
+      </nav>
+    </footer>
+    <var>
+      <script src="src/js/config.js"></script>
+      <script src="src/js/app.js"></script>
+    </var>
+  </body>
+</html>

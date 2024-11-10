@@ -1,0 +1,19 @@
+{
+  "parent": { "database_id": "13af1bf86c418013b69cedbf33167780" },
+  "properties": {
+    "nickname": {
+      "title": [
+        {
+          "text": {
+            "content": "ismaelithalo"
+          }
+        }
+      ]
+    },
+    "NMIXX": {
+      "select": {
+        "name": "BAE"
+      }
+    }
+  }
+}

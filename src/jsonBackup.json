@@ -1,0 +1,30 @@
+{
+  "title": "Database de Bias do Xet",
+  "description": "Estamos fazendo um levantamento de bias dos grupos de k-pop para entender melhor o perfil de cada um e extrair alguns dados bacanas da comunidade.",
+  "tags": ["girl group"],
+  "labels": ["NMIXX", "TWICE", "TripleS"],
+  "forms": [
+    {
+      "type": "radio-image",
+      "options": [
+        { "text": "BAE", "image": "public/images/nmixx-bae.png" },
+        { "text": "Sullyoon", "image": "public/images/nmixx-sullyoon.png" },
+        { "text": "Kyujin", "image": "public/images/nmixx-sullyoon.png" }
+      ],
+      "label": "NMIXX",
+      "tags": ["girl group"]
+    },
+    {
+      "type": "radio-image",
+      "options": [
+        { "text": "Kotone", "image": "public/images/triples-kotone.png" }
+      ],
+      "label": "TripleS",
+      "tags": ["girl group"]
+    },
+    {
+      "type": "text-input",
+      "title": "Insira aqui seu nickname do discord"
+    }
+  ]
+}

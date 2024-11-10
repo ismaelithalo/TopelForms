@@ -1,0 +1,20 @@
+{
+  "title": "Database de Bias do Xet",
+  "description": "Estamos fazendo um levantamento de bias dos grupos de k-pop para entender melhor o perfil de cada um e extrair alguns dados bacanas da comunidade.",
+  "tags": ["girl group"],
+  "labels": ["NMIXX", "TWICE", "TripleS"],
+  "forms": [
+    {
+      "type": "radio-image",
+      "options": [
+        { "text": "Kotone", "image": "https://i.imgur.com/AuvFXf9.png" }
+      ],
+      "label": "TripleS",
+      "tags": ["girl group"]
+    },
+    {
+      "type": "text-input",
+      "title": "Insira aqui seu nickname do discord"
+    }
+  ]
+}

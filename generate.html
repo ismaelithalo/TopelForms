@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <script src="public/js/loadHead.js" defer></script>
+  </head>
+  <body>
+    <header>
+      <nav class="navbar navbar-light bg-warning justify-content-center py-4">
+        <p class="h1 main-title text-uppercase">Simple Form Generator</p>
+      </nav>
+    </header>
+    <section>
+      <div class="container my-5">
+        <form id="json">
+            <p class="text-center h4 mb-5">Este é um projeto simples que utiliza como base um arquivo JSON com determinadas características e cria um HTML de fomrulário a partir dele. Os componentes utilizados como base são, em parte, os mesmos que compõe esta página.</p>
+          <div class="form-group my-3">
+            <label for="jsonInput">
+            <p class="text-center h5">Cole aqui o JSON para conversão, seguindo o padrão presente no README do repositório.</p>
+              </label
+            >
+            <textarea
+              class="form-control"
+              id="jsonInput"
+              rows="5"
+              placeholder="Insira o JSON aqui"
+            ></textarea>
+          </div>
+          </div>
+          <div class="mt-1 text-center">
+            <button type="submit" class="btn btn-dark text-justify">
+              Gerar
+            </button>
+          </div>
+        </form>
+      </div>
+      <div class="container my-5">
+        <div class="form-group my-3">
+            <nav class="navbar navbar-dark bg-dark px-3 mb-2">
+                <a class="navbar-brand">HTML</a>
+              </nav>
+              <p class="text-center h4 mb-5">Você pode clonar o repostório e colar o HTML gerado com um index na root, para reaproveitar a organização dos arquivos e as dependencias em pastas isoladas.</p>
+              <textarea
+                class="form-control"
+                id="resultado"
+                rows="5"
+                placeholder="O resultado irá aparecer aqui"
+                ></textarea>
+          </div>
+      </div>
+    </section>
+    <footer class="footer mt-auto pt-3">
+      <nav
+        class="navbar navbar-light bg-warning mt-5 justify-content-center text-muted"
+      >
+        <p class="h6">Desenvolvido por ismaelithalo</p>
+      </nav>
+    </footer>
+    <var>
+        <script src="src/js/parser.js" defer></script>
+    </var>
+  </body>
+</html>
