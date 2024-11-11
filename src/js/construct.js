@@ -5,7 +5,7 @@ let grupos = [
   { name: "Twice", key: "twice" },
   { name: "Blackpink", key: "blackpink" },
   { name: "Dreamcatcher", key: "dc" },
-  { name: "(G)I-dle	", key: "gidle" },
+  { name: "(G)I-dle", key: "gidle" },
   { name: "Itzy", key: "itzy" },
   { name: "Aespa", key: "aespa" },
   { name: "STAYC", key: "stayc" },
@@ -2100,31 +2100,60 @@ let members = [
   },
 ];
 
-// let labels = [];
+let labels = [];
 let all_data = {};
-
-// grupos.forEach((grupo) => {
-//     labels.push(grupo.name);
-// })
-
-let membros = [];
-
-members.forEach((member) => {
-  let [nome, resto] = member.name.split(" ");
-  membros.push({
-    text: nome,
-    image: "https://i.imgur.com/" + member.img,
-    group: member.opts.group[0],
-    tag: member.opts.gen[0],
-  });
-});
+let parsed_data = {};
 
 grupos.forEach((grupo) => {
-  all_data[grupo.name] = membros.filter((membro) => membro.group === grupo.key);
-  all_data[grupo.name].forEach((membro) => {
-    delete membro.group;
-    membro.label = grupo.name;
-  });
+  labels.push(grupo.name);
 });
 
-console.log(all_data);
+// let membros = [];
+
+// members.forEach((member) => {
+//   let [nome, resto] = member.name.split(" ");
+//   membros.push({
+//     text: nome,
+//     image: "https://i.imgur.com/" + member.img,
+//     group: member.opts.group[0],
+//     tag: member.opts.gen[0],
+//   });
+// });
+
+// // grupos.forEach((grupo) => {
+// //   all_data[grupo.name] = membros.filter((membro) => membro.group === grupo.key);
+// //   all_data[grupo.name].forEach((membro) => {
+// //     delete membro.group;
+// //     membro.label = grupo.name;
+// //   });
+// // });
+
+// grupos.forEach((grupo) => {
+//   let tag;
+//   all_data[grupo.name] = membros.filter((membro) => membro.group === grupo.key);
+//   all_data[grupo.name].forEach((membro) => {
+//     delete membro.group;
+//     // membro.label = grupo.name;
+//     tag = membro.tag;
+//     delete membro.tag;
+//   });
+//   parsed_data[grupo.name] = {
+//     type: "radio-image",
+//     options: all_data[grupo.name],
+//     label: grupo.name,
+//     tags: [tag],
+//   };
+// });
+
+// console.log(parsed_data);
+// console.log(all_data);
+
+const fs = require("node:fs");
+const content = JSON.stringify(labels, null, 2);
+fs.writeFile("data-labels.json", content, (err) => {
+  if (err) {
+    console.error(err);
+  } else {
+    console.log("File created");
+  }
+});

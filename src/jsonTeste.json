@@ -2,7 +2,7 @@
   "title": "Database de Bias do Xet",
   "description": "Estamos fazendo um levantamento de bias dos grupos de k-pop para entender melhor o perfil de cada um e extrair alguns dados bacanas da comunidade.",
   "tags": ["girl group"],
-  "labels": ["Red Velvet"],
+  "labels": ["Red Velvet", "NMIXX", "Dreamcatcher", "Itzy", "(G)I-dle"],
   "forms": [
     {
       "type": "radio-image",
@@ -40,6 +40,126 @@
       ],
       "label": "Red Velvet",
       "tags": ["girl group"]
+    },
+    {
+      "type": "radio-image",
+      "options": [
+        {
+          "text": "Soyeon",
+          "image": "https://i.imgur.com/U4bpw40.png"
+        },
+        {
+          "text": "Miyeon",
+          "image": "https://i.imgur.com/jIxNZue.png"
+        },
+        {
+          "text": "Minnie",
+          "image": "https://i.imgur.com/E6KiHj8.png"
+        },
+        {
+          "text": "Yuqi",
+          "image": "https://i.imgur.com/YJ6Vsuw.png"
+        },
+        {
+          "text": "Shuhua",
+          "image": "https://i.imgur.com/SOQku7u.png"
+        }
+      ],
+      "label": "(G)I-dle",
+      "tags": ["gen4"]
+    },
+    {
+      "type": "radio-image",
+      "options": [
+        {
+          "text": "Yeji",
+          "image": "https://i.imgur.com/LtsEqzF.png"
+        },
+        {
+          "text": "Lia",
+          "image": "https://i.imgur.com/i82EQww.png"
+        },
+        {
+          "text": "Ryujin",
+          "image": "https://i.imgur.com/Zn8fSZG.png"
+        },
+        {
+          "text": "Chaeryeong",
+          "image": "https://i.imgur.com/rq0yL7n.png"
+        },
+        {
+          "text": "Yuna",
+          "image": "https://i.imgur.com/nIjJt7S.png"
+        }
+      ],
+      "label": "Itzy",
+      "tags": ["gen4"]
+    },
+    {
+      "type": "radio-image",
+      "options": [
+        {
+          "text": "JiU",
+          "image": "https://i.imgur.com/Sz1tPB8.png"
+        },
+        {
+          "text": "SuA",
+          "image": "https://i.imgur.com/Imo1DT0.png"
+        },
+        {
+          "text": "Siyeon",
+          "image": "https://i.imgur.com/N7QqRPy.png"
+        },
+        {
+          "text": "Handong",
+          "image": "https://i.imgur.com/GjzqKbo.png"
+        },
+        {
+          "text": "Yoohyeon",
+          "image": "https://i.imgur.com/ckHdclc.png"
+        },
+        {
+          "text": "Dami",
+          "image": "https://i.imgur.com/wtyVNhX.png"
+        },
+        {
+          "text": "Gahyeon",
+          "image": "https://i.imgur.com/2kdqYw0.png"
+        }
+      ],
+      "label": "Dreamcatcher",
+      "tags": ["gen3"]
+    },
+    {
+      "type": "radio-image",
+      "options": [
+        {
+          "text": "Lily",
+          "image": "https://i.imgur.com/pCNl2vm.png"
+        },
+        {
+          "text": "Bae",
+          "image": "https://i.imgur.com/ckj9fuh.png"
+        },
+        {
+          "text": "Haewon",
+          "image": "https://i.imgur.com/Pe4z0az.png"
+        },
+        {
+          "text": "Kyujin",
+          "image": "https://i.imgur.com/I5e0LtY.png"
+        },
+        {
+          "text": "Sullyoon",
+          "image": "https://i.imgur.com/4bCAIFK.png"
+        },
+        {
+          "text": "Jiwoo",
+          "image": "https://i.imgur.com/cjzT1tv.png"
+        }
+      ],
+      "label": "NMIXX",
+      "tags": ["gen4"]
     },
     {
       "type": "text-input",
