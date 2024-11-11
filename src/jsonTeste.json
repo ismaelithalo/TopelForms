@@ -2,14 +2,43 @@
   "title": "Database de Bias do Xet",
   "description": "Estamos fazendo um levantamento de bias dos grupos de k-pop para entender melhor o perfil de cada um e extrair alguns dados bacanas da comunidade.",
   "tags": ["girl group"],
-  "labels": ["NMIXX", "TWICE", "TripleS"],
+  "labels": ["Red Velvet"],
   "forms": [
     {
       "type": "radio-image",
       "options": [
-        { "text": "Kotone", "image": "https://i.imgur.com/AuvFXf9.png" }
+        {
+          "text": "Irene",
+          "image": "https://i.imgur.com/buMjekK.png",
+          "tag": "gen3",
+          "label": "Red Velvet"
+        },
+        {
+          "text": "Joy",
+          "image": "https://i.imgur.com/7VRAScN.png",
+          "tag": "gen3",
+          "label": "Red Velvet"
+        },
+        {
+          "text": "Seulgi",
+          "image": "https://i.imgur.com/KiU7gDO.jpg",
+          "tag": "gen3",
+          "label": "Red Velvet"
+        },
+        {
+          "text": "Wendy",
+          "image": "https://i.imgur.com/R0anfXf.png",
+          "tag": "gen3",
+          "label": "Red Velvet"
+        },
+        {
+          "text": "Yeri",
+          "image": "https://i.imgur.com/M36SzMD.png",
+          "tag": "gen3",
+          "label": "Red Velvet"
+        }
       ],
-      "label": "TripleS",
+      "label": "Red Velvet",
       "tags": ["girl group"]
     },
     {
