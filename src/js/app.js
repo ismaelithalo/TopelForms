@@ -19,9 +19,11 @@ document
 
     let properties_grupos = {};
     labels.forEach((label) => {
-      properties_grupos[label] = {
-        select: { name: grupos[label] },
-      };
+      if (grupos[label] != undefined) {
+        properties_grupos[label] = {
+          select: { name: grupos[label] },
+        };
+      }
     });
 
     let nickname = document.querySelector('[name="nickname"]').value;
