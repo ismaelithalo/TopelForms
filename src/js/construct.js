@@ -2108,17 +2108,17 @@ grupos.forEach((grupo) => {
   labels.push(grupo.name);
 });
 
-// let membros = [];
+let membros = [];
 
-// members.forEach((member) => {
-//   let [nome, resto] = member.name.split(" ");
-//   membros.push({
-//     text: nome,
-//     image: "https://i.imgur.com/" + member.img,
-//     group: member.opts.group[0],
-//     tag: member.opts.gen[0],
-//   });
-// });
+members.forEach((member) => {
+  let [nome, resto] = member.name.split(" ");
+  membros.push({
+    text: nome,
+    image: "https://i.imgur.com/" + member.img,
+    group: member.opts.group[0],
+    tag: member.opts.gen[0],
+  });
+});
 
 // // grupos.forEach((grupo) => {
 // //   all_data[grupo.name] = membros.filter((membro) => membro.group === grupo.key);
@@ -2128,29 +2128,32 @@ grupos.forEach((grupo) => {
 // //   });
 // // });
 
-// grupos.forEach((grupo) => {
-//   let tag;
-//   all_data[grupo.name] = membros.filter((membro) => membro.group === grupo.key);
-//   all_data[grupo.name].forEach((membro) => {
-//     delete membro.group;
-//     // membro.label = grupo.name;
-//     tag = membro.tag;
-//     delete membro.tag;
-//   });
-//   parsed_data[grupo.name] = {
-//     type: "radio-image",
-//     options: all_data[grupo.name],
-//     label: grupo.name,
-//     tags: [tag],
-//   };
-// });
+let only_items = [];
+
+grupos.forEach((grupo) => {
+  let tag;
+  all_data[grupo.name] = membros.filter((membro) => membro.group === grupo.key);
+  all_data[grupo.name].forEach((membro) => {
+    delete membro.group;
+    // membro.label = grupo.name;
+    tag = membro.tag;
+    delete membro.tag;
+  });
+  parsed_data[grupo.name] = {
+    type: "radio-image",
+    options: all_data[grupo.name],
+    label: grupo.name,
+    tags: [tag],
+  };
+  only_items.push(parsed_data[grupo.name]);
+});
 
 // console.log(parsed_data);
 // console.log(all_data);
 
 const fs = require("node:fs");
-const content = JSON.stringify(labels, null, 2);
-fs.writeFile("data-labels.json", content, (err) => {
+const content = JSON.stringify(only_items, null, 2);
+fs.writeFile("data-items.json", content, (err) => {
   if (err) {
     console.error(err);
   } else {

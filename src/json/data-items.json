@@ -1,0 +1,1297 @@
+[
+  {
+    "type": "radio-image",
+    "options": [
+      {
+        "text": "Irene",
+        "image": "https://i.imgur.com/buMjekK.png"
+      },
+      {
+        "text": "Joy",
+        "image": "https://i.imgur.com/7VRAScN.png"
+      },
+      {
+        "text": "Seulgi",
+        "image": "https://i.imgur.com/KiU7gDO.jpg"
+      },
+      {
+        "text": "Wendy",
+        "image": "https://i.imgur.com/R0anfXf.png"
+      },
+      {
+        "text": "Yeri",
+        "image": "https://i.imgur.com/M36SzMD.png"
+      }
+    ],
+    "label": "Red Velvet",
+    "tags": ["gen3"]
+  },
+  {
+    "type": "radio-image",
+    "options": [
+      {
+        "text": "Umji",
+        "image": "https://i.imgur.com/sJifOFc.png"
+      },
+      {
+        "text": "SinB",
+        "image": "https://i.imgur.com/GzoNhbh.png"
+      },
+      {
+        "text": "Eunha",
+        "image": "https://i.imgur.com/505pdBh.png"
+      }
+    ],
+    "label": "VIVIZ",
+    "tags": ["gen3"]
+  },
+  {
+    "type": "radio-image",
+    "options": [
+      {
+        "text": "Yubin",
+        "image": "https://i.imgur.com/OdS059F.png"
+      },
+      {
+        "text": "Arin",
+        "image": "https://i.imgur.com/nMMHQrD.png"
+      },
+      {
+        "text": "Hyojung",
+        "image": "https://i.imgur.com/Ef32yJr.png"
+      },
+      {
+        "text": "Seunghee",
+        "image": "https://i.imgur.com/DEBshZP.png"
+      },
+      {
+        "text": "Mimi",
+        "image": "https://i.imgur.com/qDjP3gx.png"
+      },
+      {
+        "text": "YooA",
+        "image": "https://i.imgur.com/vHvIZYc.png"
+      }
+    ],
+    "label": "Oh My Girl",
+    "tags": ["gen3"]
+  },
+  {
+    "type": "radio-image",
+    "options": [
+      {
+        "text": "Chaeyoung",
+        "image": "https://i.imgur.com/Y665shI.png"
+      },
+      {
+        "text": "Dahyun",
+        "image": "https://i.imgur.com/UMbf22e.png"
+      },
+      {
+        "text": "Jeongyeon",
+        "image": "https://i.imgur.com/8mQVxoU.png"
+      },
+      {
+        "text": "Jihyo",
+        "image": "https://i.imgur.com/PRyHnMV.png"
+      },
+      {
+        "text": "Mina",
+        "image": "https://i.imgur.com/p3m2SKa.png"
+      },
+      {
+        "text": "Momo",
+        "image": "https://i.imgur.com/Znt75Vi.png"
+      },
+      {
+        "text": "Nayeon",
+        "image": "https://i.imgur.com/1gOXo3l.png"
+      },
+      {
+        "text": "Sana",
+        "image": "https://i.imgur.com/SdqhaPj.png"
+      },
+      {
+        "text": "Tzuyu",
+        "image": "https://i.imgur.com/jEqHm6D.png"
+      }
+    ],
+    "label": "Twice",
+    "tags": ["gen3"]
+  },
+  {
+    "type": "radio-image",
+    "options": [
+      {
+        "text": "Jennie",
+        "image": "https://i.imgur.com/VqfQYd5.png"
+      },
+      {
+        "text": "Jisoo",
+        "image": "https://i.imgur.com/FmdqBJI.png"
+      },
+      {
+        "text": "Lisa",
+        "image": "https://i.imgur.com/s42JJRk.png"
+      },
+      {
+        "text": "Rosé",
+        "image": "https://i.imgur.com/L97f0nM.png"
+      }
+    ],
+    "label": "Blackpink",
+    "tags": ["gen3"]
+  },
+  {
+    "type": "radio-image",
+    "options": [
+      {
+        "text": "JiU",
+        "image": "https://i.imgur.com/Sz1tPB8.png"
+      },
+      {
+        "text": "SuA",
+        "image": "https://i.imgur.com/Imo1DT0.png"
+      },
+      {
+        "text": "Siyeon",
+        "image": "https://i.imgur.com/N7QqRPy.png"
+      },
+      {
+        "text": "Handong",
+        "image": "https://i.imgur.com/GjzqKbo.png"
+      },
+      {
+        "text": "Yoohyeon",
+        "image": "https://i.imgur.com/ckHdclc.png"
+      },
+      {
+        "text": "Dami",
+        "image": "https://i.imgur.com/wtyVNhX.png"
+      },
+      {
+        "text": "Gahyeon",
+        "image": "https://i.imgur.com/2kdqYw0.png"
+      }
+    ],
+    "label": "Dreamcatcher",
+    "tags": ["gen3"]
+  },
+  {
+    "type": "radio-image",
+    "options": [
+      {
+        "text": "Soyeon",
+        "image": "https://i.imgur.com/U4bpw40.png"
+      },
+      {
+        "text": "Miyeon",
+        "image": "https://i.imgur.com/jIxNZue.png"
+      },
+      {
+        "text": "Minnie",
+        "image": "https://i.imgur.com/E6KiHj8.png"
+      },
+      {
+        "text": "Yuqi",
+        "image": "https://i.imgur.com/YJ6Vsuw.png"
+      },
+      {
+        "text": "Shuhua",
+        "image": "https://i.imgur.com/SOQku7u.png"
+      }
+    ],
+    "label": "(G)I-dle",
+    "tags": ["gen4"]
+  },
+  {
+    "type": "radio-image",
+    "options": [
+      {
+        "text": "Yeji",
+        "image": "https://i.imgur.com/LtsEqzF.png"
+      },
+      {
+        "text": "Lia",
+        "image": "https://i.imgur.com/i82EQww.png"
+      },
+      {
+        "text": "Ryujin",
+        "image": "https://i.imgur.com/Zn8fSZG.png"
+      },
+      {
+        "text": "Chaeryeong",
+        "image": "https://i.imgur.com/rq0yL7n.png"
+      },
+      {
+        "text": "Yuna",
+        "image": "https://i.imgur.com/nIjJt7S.png"
+      }
+    ],
+    "label": "Itzy",
+    "tags": ["gen4"]
+  },
+  {
+    "type": "radio-image",
+    "options": [
+      {
+        "text": "Giselle",
+        "image": "https://i.imgur.com/cFVrKHB.png"
+      },
+      {
+        "text": "Karina",
+        "image": "https://i.imgur.com/N45HAu8.png"
+      },
+      {
+        "text": "Ningning",
+        "image": "https://i.imgur.com/7Bgvev8.png"
+      },
+      {
+        "text": "Winter",
+        "image": "https://i.imgur.com/HdYdPWU.png"
+      }
+    ],
+    "label": "Aespa",
+    "tags": ["gen4"]
+  },
+  {
+    "type": "radio-image",
+    "options": [
+      {
+        "text": "Isa",
+        "image": "https://i.imgur.com/eaJdKRH.png"
+      },
+      {
+        "text": "J",
+        "image": "https://i.imgur.com/2OK8EhX.png"
+      },
+      {
+        "text": "Seeun",
+        "image": "https://i.imgur.com/YzwRVl1.png"
+      },
+      {
+        "text": "Sieun",
+        "image": "https://i.imgur.com/Y9VLrCj.png"
+      },
+      {
+        "text": "Sumin",
+        "image": "https://i.imgur.com/dbBt0hm.png"
+      },
+      {
+        "text": "Yoon",
+        "image": "https://i.imgur.com/r1vTwRm.png"
+      }
+    ],
+    "label": "STAYC",
+    "tags": ["gen4"]
+  },
+  {
+    "type": "radio-image",
+    "options": [
+      {
+        "text": "Chaeyoung",
+        "image": "https://i.imgur.com/SfCuovX.png"
+      },
+      {
+        "text": "Hayoung",
+        "image": "https://i.imgur.com/FuLFedr.png"
+      },
+      {
+        "text": "Jiheon",
+        "image": "https://i.imgur.com/iiQ8oMJ.png"
+      },
+      {
+        "text": "Jisun",
+        "image": "https://i.imgur.com/Fk6bE6g.png"
+      },
+      {
+        "text": "Megan",
+        "image": "https://i.imgur.com/QiRobdZ.png"
+      },
+      {
+        "text": "Nagyung",
+        "image": "https://i.imgur.com/E1eiEPM.png"
+      },
+      {
+        "text": "Saerom",
+        "image": "https://i.imgur.com/VZPObo5.png"
+      },
+      {
+        "text": "Seoyeon",
+        "image": "https://i.imgur.com/YrIuzK5.png"
+      }
+    ],
+    "label": "Fromis_9",
+    "tags": ["gen4"]
+  },
+  {
+    "type": "radio-image",
+    "options": [
+      {
+        "text": "Goeun",
+        "image": "https://i.imgur.com/Pji3zn3.png"
+      },
+      {
+        "text": "Dosie",
+        "image": "https://i.imgur.com/gE7Oxn2.png"
+      },
+      {
+        "text": "Ireh",
+        "image": "https://i.imgur.com/Iyzyj8m.png"
+      },
+      {
+        "text": "Yuki",
+        "image": "https://i.imgur.com/BvjqG8d.png"
+      },
+      {
+        "text": "Chaein",
+        "image": "https://i.imgur.com/o5zSbQy.png"
+      },
+      {
+        "text": "Swan",
+        "image": "https://i.imgur.com/3Qf53c9.png"
+      }
+    ],
+    "label": "Purple Kiss",
+    "tags": ["gen4"]
+  },
+  {
+    "type": "radio-image",
+    "options": [
+      {
+        "text": "Jihan",
+        "image": "https://i.imgur.com/qnZbs7Z.png"
+      },
+      {
+        "text": "Zoa",
+        "image": "https://i.imgur.com/k3XmjAc.png"
+      },
+      {
+        "text": "Jaehee",
+        "image": "https://i.imgur.com/2t4nE3T.png"
+      },
+      {
+        "text": "Soojin",
+        "image": "https://i.imgur.com/Xuf8t0x.png"
+      },
+      {
+        "text": "Monday",
+        "image": "https://i.imgur.com/kSy5mfB.png"
+      },
+      {
+        "text": "Soeun",
+        "image": "https://i.imgur.com/4SQmHEk.png"
+      }
+    ],
+    "label": "Weeekly",
+    "tags": ["gen4"]
+  },
+  {
+    "type": "radio-image",
+    "options": [
+      {
+        "text": "Gaeul",
+        "image": "https://i.imgur.com/qOO3urb.png"
+      },
+      {
+        "text": "Leeseo",
+        "image": "https://i.imgur.com/FKzvUfW.png"
+      },
+      {
+        "text": "Liz",
+        "image": "https://i.imgur.com/bbAjH1n.png"
+      },
+      {
+        "text": "Rei",
+        "image": "https://i.imgur.com/DNPQW4n.png"
+      },
+      {
+        "text": "Yujin",
+        "image": "https://i.imgur.com/CwVOyng.png"
+      },
+      {
+        "text": "Wonyoung",
+        "image": "https://i.imgur.com/17yKvMj.png"
+      }
+    ],
+    "label": "Ive",
+    "tags": ["gen4"]
+  },
+  {
+    "type": "radio-image",
+    "options": [
+      {
+        "text": "Nana",
+        "image": "https://i.imgur.com/LKllJ6c.png"
+      },
+      {
+        "text": "Wooyeon",
+        "image": "https://i.imgur.com/dSWcMBK.png"
+      },
+      {
+        "text": "Sora",
+        "image": "https://i.imgur.com/DWSZ7UC.png"
+      },
+      {
+        "text": "Lucy",
+        "image": "https://i.imgur.com/9jRtEM6.png"
+      },
+      {
+        "text": "Minseo",
+        "image": "https://i.imgur.com/HzFqPs0.png"
+      }
+    ],
+    "label": "Woo!ah!",
+    "tags": ["gen4"]
+  },
+  {
+    "type": "radio-image",
+    "options": [
+      {
+        "text": "Sakura",
+        "image": "https://i.imgur.com/RclcY50.png"
+      },
+      {
+        "text": "Chaewon",
+        "image": "https://i.imgur.com/gUU8bhZ.png"
+      },
+      {
+        "text": "Yunjin",
+        "image": "https://i.imgur.com/oJEMmBQ.png"
+      },
+      {
+        "text": "Kazuha",
+        "image": "https://i.imgur.com/ouAFOsH.png"
+      },
+      {
+        "text": "Eunchae",
+        "image": "https://i.imgur.com/eWkHUyC.png"
+      }
+    ],
+    "label": "LESSERAFIM",
+    "tags": ["gen4"]
+  },
+  {
+    "type": "radio-image",
+    "options": [
+      {
+        "text": "Minji",
+        "image": "https://i.imgur.com/0PR6mBl.png"
+      },
+      {
+        "text": "Hanni",
+        "image": "https://i.imgur.com/Ay2DxPW.png"
+      },
+      {
+        "text": "Danielle",
+        "image": "https://i.imgur.com/ZwhdBlg.png"
+      },
+      {
+        "text": "Haerin",
+        "image": "https://i.imgur.com/nYxDW2S.png"
+      },
+      {
+        "text": "Hyein",
+        "image": "https://i.imgur.com/tuzBJ8M.png"
+      }
+    ],
+    "label": "NewJeans",
+    "tags": ["gen4"]
+  },
+  {
+    "type": "radio-image",
+    "options": [
+      {
+        "text": "Tsuki",
+        "image": "https://i.imgur.com/bZW7GE4.png"
+      },
+      {
+        "text": "Haruna",
+        "image": "https://i.imgur.com/qwoUnWK.png"
+      },
+      {
+        "text": "Siyoon",
+        "image": "https://i.imgur.com/5A4D4ud.png"
+      },
+      {
+        "text": "Sheon",
+        "image": "https://i.imgur.com/6LXn8nl.png"
+      },
+      {
+        "text": "Moon",
+        "image": "https://i.imgur.com/IX5iu5T.png"
+      },
+      {
+        "text": "Suhyeon",
+        "image": "https://i.imgur.com/EkxWXDF.png"
+      },
+      {
+        "text": "Haram",
+        "image": "https://i.imgur.com/ymXGFBL.png"
+      }
+    ],
+    "label": "Billlie",
+    "tags": ["gen4"]
+  },
+  {
+    "type": "radio-image",
+    "options": [
+      {
+        "text": "Miu",
+        "image": "https://i.imgur.com/V16g288.png"
+      },
+      {
+        "text": "Suhye",
+        "image": "https://i.imgur.com/BYoKgMz.png"
+      },
+      {
+        "text": "Gaeun",
+        "image": "https://i.imgur.com/GRKoDP9.png"
+      },
+      {
+        "text": "Mashiro",
+        "image": "https://i.imgur.com/oAG4kJB.png"
+      },
+      {
+        "text": "Yeseo",
+        "image": "https://i.imgur.com/SJcDWar.png"
+      },
+      {
+        "text": "Nagomi",
+        "image": "https://i.imgur.com/r2GxLo3.png"
+      },
+      {
+        "text": "Serina",
+        "image": "https://i.imgur.com/VAHmw6a.png"
+      }
+    ],
+    "label": "Madein",
+    "tags": ["gen4"]
+  },
+  {
+    "type": "radio-image",
+    "options": [
+      {
+        "text": "Yujin",
+        "image": "https://i.imgur.com/3wW8CWE.png"
+      },
+      {
+        "text": "Hikaru",
+        "image": "https://i.imgur.com/0QVhDdZ.png"
+      },
+      {
+        "text": "Dayeon",
+        "image": "https://i.imgur.com/SIs9OnW.png"
+      },
+      {
+        "text": "Chaehyun",
+        "image": "https://i.imgur.com/QTovmbr.png"
+      },
+      {
+        "text": "Bahiyyih",
+        "image": "https://i.imgur.com/zippJEK.png"
+      },
+      {
+        "text": "Xiaoting",
+        "image": "https://i.imgur.com/8HDD42n.png"
+      },
+      {
+        "text": "Youngeun",
+        "image": "https://i.imgur.com/r7oPHjT.png"
+      }
+    ],
+    "label": "Kep1er",
+    "tags": ["gen4"]
+  },
+  {
+    "type": "radio-image",
+    "options": [
+      {
+        "text": "Yubin",
+        "image": "https://i.imgur.com/aRvL00Q.png"
+      },
+      {
+        "text": "Yooyeon",
+        "image": "https://i.imgur.com/WUTYvQq.png"
+      },
+      {
+        "text": "Yeonji",
+        "image": "https://i.imgur.com/C5V6t6k.png"
+      },
+      {
+        "text": "Soomin",
+        "image": "https://i.imgur.com/TtiaN2p.png"
+      },
+      {
+        "text": "Sohyun",
+        "image": "https://i.imgur.com/udHu9Qn.png"
+      },
+      {
+        "text": "Seoyeon",
+        "image": "https://i.imgur.com/PwRbDtT.png"
+      },
+      {
+        "text": "Nien",
+        "image": "https://i.imgur.com/c3gtU6c.png"
+      },
+      {
+        "text": "Nakyoung",
+        "image": "https://i.imgur.com/ef43tZ4.png"
+      },
+      {
+        "text": "Kotone",
+        "image": "https://i.imgur.com/AuvFXf9.png"
+      },
+      {
+        "text": "Kaede",
+        "image": "https://i.imgur.com/3oEEL8P.png"
+      },
+      {
+        "text": "Jiwoo",
+        "image": "https://i.imgur.com/8EA7aRu.png"
+      },
+      {
+        "text": "Hyerin",
+        "image": "https://i.imgur.com/Wl6phy5.png"
+      },
+      {
+        "text": "Dahyun",
+        "image": "https://i.imgur.com/UIA1PM2.png"
+      },
+      {
+        "text": "Chaeyeon",
+        "image": "https://i.imgur.com/DJ3tKqx.png"
+      },
+      {
+        "text": "Xinyu",
+        "image": "https://i.imgur.com/VCFjQO4.png"
+      },
+      {
+        "text": "Mayu",
+        "image": "https://i.imgur.com/eP2wM52.png"
+      },
+      {
+        "text": "Chaewon",
+        "image": "https://i.imgur.com/KSG2lWs.png"
+      },
+      {
+        "text": "Joobin",
+        "image": "https://i.imgur.com/eTUcLgn.png"
+      },
+      {
+        "text": "Jiyeon",
+        "image": "https://i.imgur.com/ChJZeia.png"
+      },
+      {
+        "text": "Lynn",
+        "image": "https://i.imgur.com/GbwGgkX.png"
+      },
+      {
+        "text": "SeoAh",
+        "image": "https://i.imgur.com/zBUwWLP.png"
+      },
+      {
+        "text": "Shion",
+        "image": "https://i.imgur.com/swHwPK9.png"
+      },
+      {
+        "text": "Sullin",
+        "image": "https://i.imgur.com/W4fOGrB.png"
+      },
+      {
+        "text": "Hayeon",
+        "image": "https://i.imgur.com/Ubu2g9U.png"
+      }
+    ],
+    "label": "TripleS",
+    "tags": ["gen4"]
+  },
+  {
+    "type": "radio-image",
+    "options": [
+      {
+        "text": "Duna",
+        "image": "https://i.imgur.com/3FXEAha.png"
+      },
+      {
+        "text": "Geumhee",
+        "image": "https://i.imgur.com/PDwdeny.png"
+      },
+      {
+        "text": "Yuna",
+        "image": "https://i.imgur.com/rdJbDOP.png"
+      },
+      {
+        "text": "Yeham",
+        "image": "https://i.imgur.com/mqEZCz8.png"
+      },
+      {
+        "text": "Sihyeon",
+        "image": "https://i.imgur.com/zb4KzeN.png"
+      },
+      {
+        "text": "Sua",
+        "image": "https://i.imgur.com/wEfQfio.png"
+      },
+      {
+        "text": "Seoyeon",
+        "image": "https://i.imgur.com/qB27O42.png"
+      }
+    ],
+    "label": "CSR",
+    "tags": ["gen4"]
+  },
+  {
+    "type": "radio-image",
+    "options": [
+      {
+        "text": "Lily",
+        "image": "https://i.imgur.com/pCNl2vm.png"
+      },
+      {
+        "text": "Bae",
+        "image": "https://i.imgur.com/ckj9fuh.png"
+      },
+      {
+        "text": "Haewon",
+        "image": "https://i.imgur.com/Pe4z0az.png"
+      },
+      {
+        "text": "Kyujin",
+        "image": "https://i.imgur.com/I5e0LtY.png"
+      },
+      {
+        "text": "Sullyoon",
+        "image": "https://i.imgur.com/4bCAIFK.png"
+      },
+      {
+        "text": "Jiwoo",
+        "image": "https://i.imgur.com/cjzT1tv.png"
+      }
+    ],
+    "label": "NMIXX",
+    "tags": ["gen4"]
+  },
+  {
+    "type": "radio-image",
+    "options": [
+      {
+        "text": "Choerry",
+        "image": "https://i.imgur.com/5jUHzYp.png"
+      },
+      {
+        "text": "HeeJin",
+        "image": "https://i.imgur.com/sa5QO18.png"
+      },
+      {
+        "text": "Jinsoul",
+        "image": "https://i.imgur.com/Wc8EfXk.png"
+      },
+      {
+        "text": "Haseul",
+        "image": "https://i.imgur.com/HCiqi6r.png"
+      },
+      {
+        "text": "Kim",
+        "image": "https://i.imgur.com/9u71FRD.png"
+      }
+    ],
+    "label": "ARTMS",
+    "tags": ["gen4"]
+  },
+  {
+    "type": "radio-image",
+    "options": [
+      {
+        "text": "Yeoreum",
+        "image": "https://i.imgur.com/XAeHDRf.png"
+      },
+      {
+        "text": "Yeonjung",
+        "image": "https://i.imgur.com/tYYg5DL.png"
+      },
+      {
+        "text": "Soobin",
+        "image": "https://i.imgur.com/EMADucm.png"
+      },
+      {
+        "text": "Luda",
+        "image": "https://i.imgur.com/eEBF1Qu.png"
+      },
+      {
+        "text": "Seola",
+        "image": "https://i.imgur.com/xzvYUnz.png"
+      },
+      {
+        "text": "Exy",
+        "image": "https://i.imgur.com/zFkx7Tg.png"
+      },
+      {
+        "text": "Eunseo",
+        "image": "https://i.imgur.com/qdQ2C7F.png"
+      },
+      {
+        "text": "Dayoung",
+        "image": "https://i.imgur.com/t8RqD1K.png"
+      },
+      {
+        "text": "Dawon",
+        "image": "https://i.imgur.com/0myJ3eV.png"
+      },
+      {
+        "text": "Bona",
+        "image": "https://i.imgur.com/LFvm0lQ.png"
+      },
+      {
+        "text": "Bona",
+        "image": "https://i.imgur.com/LFvm0lQ.png"
+      }
+    ],
+    "label": "WJSN",
+    "tags": ["gen4"]
+  },
+  {
+    "type": "radio-image",
+    "options": [
+      {
+        "text": "Hyunjin",
+        "image": "https://i.imgur.com/2JGNfUJ.png"
+      },
+      {
+        "text": "Hyeju",
+        "image": "https://i.imgur.com/ZiLx6uC.png"
+      },
+      {
+        "text": "Vivi",
+        "image": "https://i.imgur.com/S5nbuD4.png"
+      },
+      {
+        "text": "Yeojin",
+        "image": "https://i.imgur.com/d5dC0yR.png"
+      },
+      {
+        "text": "Gowon",
+        "image": "https://i.imgur.com/FMv5uPO.png"
+      }
+    ],
+    "label": "Loossemble",
+    "tags": ["gen4"]
+  },
+  {
+    "type": "radio-image",
+    "options": [
+      {
+        "text": "Natty",
+        "image": "https://i.imgur.com/8AudLPy.png"
+      },
+      {
+        "text": "Haneul",
+        "image": "https://i.imgur.com/XFQLZ7T.png"
+      },
+      {
+        "text": "Julie",
+        "image": "https://i.imgur.com/Xy74wcD.png"
+      },
+      {
+        "text": "Belle",
+        "image": "https://i.imgur.com/sMMh0dK.png"
+      }
+    ],
+    "label": "Kiss of Life",
+    "tags": ["gen4"]
+  },
+  {
+    "type": "radio-image",
+    "options": [
+      {
+        "text": "Riina",
+        "image": "https://i.imgur.com/I27IMZE.png"
+      },
+      {
+        "text": "Seoi",
+        "image": "https://i.imgur.com/NQrLVZh.png"
+      },
+      {
+        "text": "Hwiseo",
+        "image": "https://i.imgur.com/2ZYZgjo.png"
+      },
+      {
+        "text": "Yel",
+        "image": "https://i.imgur.com/cBsHJRy.png"
+      }
+    ],
+    "label": "H1-KEY",
+    "tags": ["gen4"]
+  },
+  {
+    "type": "radio-image",
+    "options": [
+      {
+        "text": "Sunhye",
+        "image": "https://i.imgur.com/3BTFR41.png"
+      },
+      {
+        "text": "Yeonjung",
+        "image": "https://i.imgur.com/Vey5UCH.png"
+      },
+      {
+        "text": "Jiana",
+        "image": "https://i.imgur.com/68CNimc.png"
+      },
+      {
+        "text": "Doeun",
+        "image": "https://i.imgur.com/CrYcejf.png"
+      },
+      {
+        "text": "Jieun",
+        "image": "https://i.imgur.com/iuDf3AR.png"
+      }
+    ],
+    "label": "Young Posse",
+    "tags": ["gen4"]
+  },
+  {
+    "type": "radio-image",
+    "options": [
+      {
+        "text": "Chaesol",
+        "image": "https://i.imgur.com/drHUPlG.png"
+      },
+      {
+        "text": "Jeewon",
+        "image": "https://i.imgur.com/FO8XpEY.png"
+      },
+      {
+        "text": "Seline",
+        "image": "https://i.imgur.com/53TQwIA.png"
+      },
+      {
+        "text": "Dohee",
+        "image": "https://i.imgur.com/MCGFdTQ.png"
+      },
+      {
+        "text": "Semi",
+        "image": "https://i.imgur.com/56uxtXN.png"
+      },
+      {
+        "text": "Chloe",
+        "image": "https://i.imgur.com/7dbwKkj.png"
+      },
+      {
+        "text": "Belle",
+        "image": "https://i.imgur.com/h7ifY3G.png"
+      }
+    ],
+    "label": "Cignature",
+    "tags": ["gen4"]
+  },
+  {
+    "type": "radio-image",
+    "options": [
+      {
+        "text": "Juhyeon",
+        "image": "https://i.imgur.com/9XrKH7t.png"
+      },
+      {
+        "text": "Chowon",
+        "image": "https://i.imgur.com/MZSHSVJ.png"
+      },
+      {
+        "text": "Sangah",
+        "image": "https://i.imgur.com/7yyi9AO.png"
+      },
+      {
+        "text": "Hina",
+        "image": "https://i.imgur.com/eP7IeVt.png"
+      },
+      {
+        "text": "Yujeong",
+        "image": "https://i.imgur.com/oomUnZ2.png"
+      },
+      {
+        "text": "Nayoung",
+        "image": "https://i.imgur.com/hRoMGj9.png"
+      }
+    ],
+    "label": "Lightsum",
+    "tags": ["gen4"]
+  },
+  {
+    "type": "radio-image",
+    "options": [
+      {
+        "text": "Yunkyoung",
+        "image": "https://i.imgur.com/i1yS26C.png"
+      },
+      {
+        "text": "Yeonhee",
+        "image": "https://i.imgur.com/w6Fgy7D.png"
+      },
+      {
+        "text": "Suyun",
+        "image": "https://i.imgur.com/43Yjqjp.png"
+      },
+      {
+        "text": "Sohee",
+        "image": "https://i.imgur.com/YormJCy.png"
+      },
+      {
+        "text": "Dahyun",
+        "image": "https://i.imgur.com/8Z0moBH.png"
+      }
+    ],
+    "label": "Rocket Punch",
+    "tags": ["gen4"]
+  },
+  {
+    "type": "radio-image",
+    "options": [
+      {
+        "text": "Yunah",
+        "image": "https://i.imgur.com/b5lIXMx.png"
+      },
+      {
+        "text": "Minju",
+        "image": "https://i.imgur.com/bT3vJuz.png"
+      },
+      {
+        "text": "Moka",
+        "image": "https://i.imgur.com/FoKQdPc.png"
+      },
+      {
+        "text": "Wonhee",
+        "image": "https://i.imgur.com/AveAU3s.png"
+      },
+      {
+        "text": "Iroha",
+        "image": "https://i.imgur.com/U2MiTK5.png"
+      }
+    ],
+    "label": "ILLIT",
+    "tags": ["gen4"]
+  },
+  {
+    "type": "radio-image",
+    "options": [
+      {
+        "text": "Yeyoung",
+        "image": "https://i.imgur.com/i4NRplh.png"
+      },
+      {
+        "text": "Sion",
+        "image": "https://i.imgur.com/mzFSCll.png"
+      },
+      {
+        "text": "Mika",
+        "image": "https://i.imgur.com/zYCQKtR.png"
+      },
+      {
+        "text": "Andamiro",
+        "image": "https://i.imgur.com/gB3XsIP.png"
+      },
+      {
+        "text": "Zoe",
+        "image": "https://i.imgur.com/rLIMFOY.png"
+      }
+    ],
+    "label": "Geenius",
+    "tags": ["gen4"]
+  },
+  {
+    "type": "radio-image",
+    "options": [
+      {
+        "text": "Yiren",
+        "image": "https://i.imgur.com/RYN2yCw.png"
+      },
+      {
+        "text": "Onda",
+        "image": "https://i.imgur.com/RqzuKqP.png"
+      },
+      {
+        "text": "Sihyeon",
+        "image": "https://i.imgur.com/toArHgJ.png"
+      },
+      {
+        "text": "Aisha",
+        "image": "https://i.imgur.com/pD1CjIF.png"
+      },
+      {
+        "text": "Mia",
+        "image": "https://i.imgur.com/SGXkXcZ.png"
+      },
+      {
+        "text": "E:U",
+        "image": "https://i.imgur.com/DCurNvc.png"
+      }
+    ],
+    "label": "Everglow",
+    "tags": ["gen4"]
+  },
+  {
+    "type": "radio-image",
+    "options": [
+      {
+        "text": "Maika",
+        "image": "https://i.imgur.com/aRfijEd.png"
+      },
+      {
+        "text": "Myah",
+        "image": "https://i.imgur.com/yl5tyr8.png"
+      },
+      {
+        "text": "Kanie",
+        "image": "https://i.imgur.com/mvL3KGC.png"
+      },
+      {
+        "text": "Summer",
+        "image": "https://i.imgur.com/Z4ylk0Q.png"
+      },
+      {
+        "text": "Ye",
+        "image": "https://i.imgur.com/rDhY4KD.png"
+      }
+    ],
+    "label": "ODD YOUTH",
+    "tags": ["gen4"]
+  },
+  {
+    "type": "radio-image",
+    "options": [
+      {
+        "text": "Woni",
+        "image": "https://i.imgur.com/pbmuKAB.png"
+      },
+      {
+        "text": "Liv",
+        "image": "https://i.imgur.com/KfZ324T.png"
+      },
+      {
+        "text": "Minami",
+        "image": "https://i.imgur.com/n0Wikvg.png"
+      },
+      {
+        "text": "May",
+        "image": "https://i.imgur.com/pccYcGv.png"
+      },
+      {
+        "text": "Zena",
+        "image": "https://i.imgur.com/ArxCCj8.png"
+      }
+    ],
+    "label": "Rescene",
+    "tags": ["gen4"]
+  },
+  {
+    "type": "radio-image",
+    "options": [
+      {
+        "text": "E.Ji",
+        "image": "https://i.imgur.com/IBU769c.png"
+      },
+      {
+        "text": "Jiyoon",
+        "image": "https://i.imgur.com/Wm968O7.png"
+      },
+      {
+        "text": "Chowon",
+        "image": "https://i.imgur.com/Iwk8xp2.png"
+      },
+      {
+        "text": "Chaerin",
+        "image": "https://i.imgur.com/dSmsl8F.png"
+      },
+      {
+        "text": "Jackie",
+        "image": "https://i.imgur.com/0bP0dtH.png"
+      },
+      {
+        "text": "Yeju",
+        "image": "https://i.imgur.com/MA5QVj9.png"
+      },
+      {
+        "text": "Joonie",
+        "image": "https://i.imgur.com/QlSfcL8.png"
+      }
+    ],
+    "label": "ICHILLIN",
+    "tags": ["gen4"]
+  },
+  {
+    "type": "radio-image",
+    "options": [],
+    "label": "ablume",
+    "tags": [null]
+  },
+  {
+    "type": "radio-image",
+    "options": [
+      {
+        "text": "Yuju",
+        "image": "https://i.imgur.com/fk9hsag.png"
+      },
+      {
+        "text": "Yerin",
+        "image": "https://i.imgur.com/00bfD0k.png"
+      },
+      {
+        "text": "Chuu",
+        "image": "https://i.imgur.com/qSp6i66.png"
+      },
+      {
+        "text": "Eunbi",
+        "image": "https://i.imgur.com/u0LpS6J.png"
+      },
+      {
+        "text": "Hyewon",
+        "image": "https://i.imgur.com/yi5zAyC.png"
+      },
+      {
+        "text": "Yena",
+        "image": "https://i.imgur.com/5GRCIOw.png"
+      },
+      {
+        "text": "Chaeyeon",
+        "image": "https://i.imgur.com/xpo9tU3.png"
+      },
+      {
+        "text": "Yuri",
+        "image": "https://i.imgur.com/TMC2B6o.png"
+      },
+      {
+        "text": "Taeyeon",
+        "image": "https://i.imgur.com/5u4O7Mn.png"
+      },
+      {
+        "text": "Somi",
+        "image": "https://i.imgur.com/F4xD49d.png"
+      },
+      {
+        "text": "IU",
+        "image": "https://i.imgur.com/Xs3Nk8F.png"
+      },
+      {
+        "text": "Yoojung",
+        "image": "https://i.imgur.com/kBJUf37.png"
+      },
+      {
+        "text": "Sunmi",
+        "image": "https://i.imgur.com/DhJ7Voz.png"
+      },
+      {
+        "text": "Doah",
+        "image": "https://i.imgur.com/Tz3QWrZ.png"
+      },
+      {
+        "text": "Bibi",
+        "image": "https://i.imgur.com/BCz80jy.png"
+      }
+    ],
+    "label": "Soloists / Misc.",
+    "tags": ["gen3"]
+  },
+  {
+    "type": "text-input",
+    "title": "Insira aqui seu nickname do discord"
+  }
+]
